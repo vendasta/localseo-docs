@@ -56,9 +56,9 @@ const config: Config = {
   themeConfig: {
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'Local SEO',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Local SEO Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -66,7 +66,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Docs',
         },
         {
           href: 'https://github.com/facebook/docusaurus',
@@ -82,8 +82,8 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'Local SEO',
+              to: '/docs/index',
             },
           ],
         },
