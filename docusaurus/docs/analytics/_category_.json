@@ -1,4 +1,6 @@
 {
   "label": "Analytics",
-  "position": 7
+  "position": 8,
+  "collapsible": true,
+  "collapsed": true
 } 

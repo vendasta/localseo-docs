@@ -1,4 +1,6 @@
 {
   "label": "Keyword Tracking",
-  "position": 4
+  "position": 5,
+  "collapsible": true,
+  "collapsed": true
 } 
