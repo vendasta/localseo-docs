@@ -15,6 +15,13 @@
   --ifm-color-primary-lightest: #3cad6e;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+
+  /* Footer brand colors */
+  --ifm-footer-background-color: #3ECC5F;
+  --ifm-footer-color: #ffffff;
+  --ifm-footer-title-color: #ffffff;
+  --ifm-footer-link-color: #ffffff;
+  --ifm-footer-link-hover-color: rgba(255, 255, 255, 0.85);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -50,4 +57,20 @@
 .card__header h3 {
   margin-bottom: 0;
   color: var(--ifm-color-primary);
+}
+
+/* Footer overrides */
+.footer,
+.footer--dark {
+  background: var(--ifm-footer-background-color) !important;
+}
+
+.footer__title,
+.footer__link-item,
+.footer__copyright {
+  color: var(--ifm-footer-color) !important;
+}
+
+.footer__link-item:hover {
+  color: var(--ifm-footer-link-hover-color) !important;
 }
