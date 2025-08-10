@@ -45,6 +45,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
+          routeBasePath: '/',
           // editUrl: 'https://github.dev/vendasta/localseo-docs',
         },
         blog: false,
@@ -80,7 +81,7 @@ const config: Config = {
           items: [
             {
               label: 'Getting started',
-              to: '/docs/overview',
+              to: '/overview',
             },
           ],
         },
