@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Local SEO',
+  title: 'Local SEO Documentation',
   tagline: 'Boost your clients\' local rankings with AI-powered software.',
   favicon: 'img/logo.png',
 
@@ -59,7 +59,7 @@ const config: Config = {
   themeConfig: {
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'Local SEO',
+      title: 'Local SEO Documentation',
       logo: {
         alt: 'Local SEO Logo',
         src: 'img/logo.png',
