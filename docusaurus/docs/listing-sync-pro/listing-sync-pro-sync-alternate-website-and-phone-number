@@ -7,27 +7,27 @@ keywords: [alternate phone, alternate website, tracking number, call tracking, g
 description: Override default phone and website details on a per-platform basis for accurate call tracking and campaign attribution.
 ------------------------------------------------------------------------------------------------------------------------------------
 
-## What is Alternate Phone & Website Syndication?
+## What is alternate phone & website syndication?
 
-Alternate Phone & Website Syndication lets you override your default Business Profile phone number and website URL on specific platforms, such as Google Business Profile, Facebook and Bing.
+Alternate phone & website syndication lets you override your default business profile phone number and website URL on specific platforms, such as Google Business Profile, Facebook and Bing.
 
-## Why is Alternate Phone & Website Syndication important?
+## Why is alternate phone & website syndication important?
 
 This feature allows businesses to customize which phone number or website appears on each major platform, such as Google, Facebook, and Bing. By tailoring contact details per source, you can better understand where leads and interactions are coming from, enhance campaign attribution, and guide organic traffic to the most effective landing pages.
 
-## What’s Included with Alternate Phone & Website Syndication?
+## What’s included with alternate phone & website syndication?
 
 * Platform-specific override options for phone numbers and websites
 * Support for Google Business Profile, Facebook and Bing.
 
-## How to Configure Alternate Phone Numbers & Websites
+## How to configure alternate phone numbers & websites
 
-### 1. Open the Business Profile
+### 1. Open the business profile
 
 
 * Navigate to the Business Profile for the desired business
 
-### 2. Configure Source-Specific Phone Numbers
+### 2. Configure source-specific phone numbers
 
 * Scroll to the Phone Numbers section
 * Enter your main phone number as usual
@@ -35,31 +35,31 @@ This feature allows businesses to customize which phone number or website appear
 * Choose the platform (Google, Facebook or Bing)
 * Enter the alternate Phone (tracking) number
 
-### 3. Configure Source-Specific Websites
+### 3. Configure source-specific websites
 
 * Scroll to the Website section
 * Under Source Specific Webste, select the platform (Google, Facebook or Bing)
 * Enter the platform-specific URL
 
-### 4. Save Changes
+### 4. Save changes
 
 * Click Save to apply your changes
 * Your overrides will now sync to the selected platforms
 
-## Key Behavior
+## Key behavior
 
-* If no overrides are set, your default Business Profile details will sync across all platforms.
+* If no overrides are set, your default business profile details will sync across all platforms.
 * Overrides only affect the platforms you configure.
 * Each platform can have a unique phone number and URL.
 * Reporting tools will reflect your override settings.
 
 ## Benefits
 
-* **Call Tracking**: Use unique numbers to attribute calls by platform.
-* **Landing Page Optimization**: Drive traffic to platform-specific landing pages.
-* **Campaign Attribution**: Measure ROI more effectively by mapping results to specific sources.
+* **Call tracking**: Use unique numbers to attribute calls by platform.
+* **Landing page optimization**: Drive traffic to platform-specific landing pages.
+* **Campaign attribution**: Measure ROI more effectively by mapping results to specific sources.
 
-## Frequently Asked Questions (FAQs)
+## Frequently asked questions (FAQs)
 
 <details>
 <summary>How long does it take for changes to appear?</summary>
@@ -71,7 +71,7 @@ Changes typically take 24–48 hours to reflect on Google or Facebook, depending
 <details>
 <summary>What if I don’t set an alternate phone number or website?</summary>
 
-Your default Business Profile details will continue to sync across all platforms unless overrides are set.
+Your default business profile details will continue to sync across all platforms unless overrides are set.
 
 </details>
 
