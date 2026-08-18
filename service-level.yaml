@@ -1,0 +1,8 @@
+services:
+  - name: localseo-docs
+    owner: documentation
+    language: typescript
+    platform: Cloud Run
+    status: active
+    description: "Local SEO product documentation site (docs.pdqs.mobi)."
+    nonServiceType: reference
